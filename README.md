@@ -1,0 +1,1 @@
+# sax-stock-patterns
